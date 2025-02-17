@@ -1,7 +1,7 @@
 :root {
     --primary-color: #000000;  
     --secondary-color: #ffffff; 
-    --bg-primary: #f8f9fa;
+    --bg-white: #f8f9fa;
     --bg-grey: #6c757d;
     --bg-blue: #0d6efd;
     --bg-green: #198754;
@@ -12,6 +12,8 @@
 
   }
 
+  /* colori */
+
 .color-primary{
     color: var(--primary-color);
 }  
@@ -20,7 +22,7 @@
     color: var(--secondary-color);
 }
 
-.bg-primary {
+.bg-white {
     background-color: var(--bg-primary);
   }
 
@@ -50,5 +52,15 @@
 
 .bg-black{
     background-color: var(--bg-black);
+}
+
+/* container */
+
+.container{
+    margin-bottom: 30px;
+}
+
+.col{
+    padding: 20px;
 }
 
