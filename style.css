@@ -55,7 +55,9 @@
 }
 
 /* container */
-
+header{
+    margin-bottom: 50px;
+}
 .container{
     margin-bottom: 30px;
 }
