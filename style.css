@@ -22,7 +22,7 @@
     color: var(--secondary-color);
 }
 
-.bg-white {
+ .bg-white {
     background-color: var(--bg-primary);
   }
 
@@ -52,7 +52,7 @@
 
 .bg-black{
     background-color: var(--bg-black);
-}
+} */
 
 /* container */
 header{
